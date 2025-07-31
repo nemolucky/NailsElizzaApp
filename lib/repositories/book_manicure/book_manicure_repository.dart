@@ -1,0 +1,1 @@
+export 'models/book_manicure_model.dart';
